@@ -41,3 +41,8 @@ ul.posts {
 ul.posts li {
     list-style: none;
 }
+
+.light-theme {
+    color: #000000;
+    background: #00FF00;
+  }
